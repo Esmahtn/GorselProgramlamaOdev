@@ -2,6 +2,8 @@
 
 **Planify**, kullanıcıların hem odaklanarak çalışmasını hem de günlük görevlerini kolayca planlamasını sağlayan çok işlevli bir masaüstü uygulamasıdır. Pomodoro zamanlayıcısı, görev listesi, takvim ve ambiyans müziği gibi üretkenliği artıran birçok özellik tek bir yerde sunulmuştur.
 
+
+
 ## Özellikler
 
 - **Pomodoro Zamanlayıcı**
